@@ -1,0 +1,253 @@
+.body{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.img1{
+margin-left: 200px;
+}
+.one{
+    padding-left: 300px;
+    padding-top: 20px;
+    
+}
+.p1{
+    padding-left: 300px;
+}
+.p2{
+padding-left: 1000px;
+margin-top: -45px;
+}
+.img2{
+    margin-top: 25px;
+    margin-right: 200px;
+}
+.div1{
+    background-color:#002A40;
+    color: white;
+    height: 40px;
+    justify-content: space-around;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 50px;
+    font-size: 12px;
+}
+
+.div1 ul a{
+    color:#707070; 
+    text-decoration: none;
+    
+}
+.ul{
+    display: flex;
+    width: 1000px;
+    list-style: none;
+    padding-top: 15px;
+}
+.l1{
+    width: 10%;
+}
+.l2{
+    width: 12%;
+}
+.l3{
+    width: 12%;
+}
+.l4{
+    width: 11%;
+}
+.l5{
+    width: 11%;
+}
+.l6{
+    width: 22%;
+}
+.l7{
+    width: 4%;
+}
+.div2{
+    height: 80px;
+    background-color: #F5F5F5;
+    margin-top: -80px;
+}
+.div3{
+height: 2px;
+width: 425px;
+background-color: #707070;
+margin-left: 500px;
+margin-top: -10px;
+}
+.div4{
+height: 25px;
+width: 150px;
+background-color: #F5F5F5;
+margin-left: 965px;
+
+}
+.di{
+    padding-left: 500px;
+    padding-top: 22px;
+}
+.p3{
+text-align: center;
+font-size: 30px;
+}
+.p4{
+text-align: center;
+margin-top: -15px;
+}
+.div5{
+margin-left:0px;
+margin-right:0px;
+margin-top: 80px;
+padding-right: 25px;
+}
+.ul1{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+.ss{
+    background-color:#002A40;
+    height: 35px;
+    width: 190px;
+    margin-left: 500px;
+}
+.sp{
+    margin-left: 515px;
+    margin-top: -29px;
+    color: white;
+}
+.div6{
+    background-color: #F5F5F5;
+    height: 650px;
+    padding-right: 25px;
+}
+.l11{
+    border: 1px solid;
+    height: 200px;
+    width: 340px;
+    border: outset;
+    background-color: white;
+    border-radius: 5px;
+}
+.l12{
+    border: 1px solid;
+    height: 200px;
+    width: 340px;
+    background-color:white;
+    border: outset;
+    border-radius: 5px;
+}
+.but{
+    background-color: #002A40;
+    margin-left: 650px;
+    height: 35px;
+    color: white;
+}
+.footer{
+    padding-left: 250px;
+    padding-right:250px ;
+    height: 350px;
+    background-color:#002A40;
+    margin-top: 75px;
+    display: flex;
+    justify-content: space-around
+}
+.yu{
+    color: white;
+    list-style: none;
+}
+.dr{
+    height: 60px;
+    width: 60px;
+}
+.div1 ul a:hover{
+    cursor: pointer;
+ color: white;
+}
+.ul1 li:hover{
+    background: linear-gradient(180deg,#448AFF, #002a40);
+    background-image: linear-gradient(rgb(68, 138, 255), rgb(0, 42, 64));
+}
+.ul2{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    text-align: center;
+}
+.ul2 li:hover{
+    background: linear-gradient(0deg, rgb(250, 250, 250) 0%, rgb(255, 255, 255) 100%);
+    box-shadow: inset 2px 2px 2px 0px rgba(255,255,255,.5), 7px 7px 20px 0px
+rgba(0,0,0,.1), 4px 4px 5px 0px rgba(0,0,0,.1);
+}
+.input{
+     height: 25px;
+    width: 420px;
+    margin-left: 530px;
+    margin-top: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.ton{
+    background-color: blue;
+    margin-left: 970px;
+    margin-top: 26px;
+    height: 32px;
+    width: 130px;
+}
+.te{
+    font-size: 40px;
+    padding-left: 120px;
+    font-family: 'Times New Roman';
+    background-color:#F5F5F5;
+    height: 60px;
+    padding-top: 20px;
+    margin-top: -2px;
+}
+.tr{
+    margin-left: 900px;
+}
+.da{
+    border: blueviolet;
+}
+.rt{
+    margin-left: 600px;
+}
+.yl{
+    padding-left: 500px;
+}
+.foutu{
+    display: flex;
+    justify-content: space-around;
+}
+.colone1{
+    border: 1px solid #72797b;
+}
+.colone1 div:hover{
+    box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,.19);
+}
+.colone1 div{
+height: 2cm;
+width: 9cm;
+}
+.colone1 p{
+    position: relative;
+    bottom: 30px;
+    left: 25px;
+}
+.colone1 img{
+    position: relative;
+    top: 15px;
+}
+.colone0{
+    border: 1px solid #72797b;
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    margin-left: 200px;
+}
